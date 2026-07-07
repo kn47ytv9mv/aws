@@ -1,0 +1,3 @@
+[submodule "::aws-s3-backend"]
+  url  = "git@github.com:kn47ytv9mv/aws-s3-backend"
+  path = "::aws-s3-backend"
